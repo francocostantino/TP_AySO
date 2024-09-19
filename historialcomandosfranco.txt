@@ -1,0 +1,69 @@
+us
+US
+us
+su
+restart
+su
+reboot
+sudo reboot
+su
+sudo reboot
+su
+pwd
+ls
+dir
+dir --help
+q
+clear
+ls -l
+cd videos
+cd documentos
+cd Documentos
+cd /var/log
+ls l
+ls -l
+cd ..
+cd descargas
+cd Descargas
+ls
+ls -l
+cd /home/franco/Descargas
+su
+cd var
+cd /var
+cd log
+ls
+cat boot.log
+su
+cd /var/log
+pdw
+pwd
+ls
+cp /home/franco/Documento boot.log
+cp boot.log /home/franco/Documento
+su
+ls
+/Documentos
+us
+su
+pwd
+mkdir
+mkdir repogit
+cd repogit
+mkdir carpeta franco
+mkdir -p {carpetauno, carpetados}
+ls
+mkdir -p ejemplo/{1,2}
+ls
+ls ejemplo
+tree
+su
+pwd
+su
+cd..
+cd ..
+ls
+su
+pdw
+pwd
+ls -la
